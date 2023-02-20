@@ -1,0 +1,30 @@
+{
+  "Books": [
+    {
+      "uniqueNo": 1,
+      "name": "John Doe",
+      "author": "Pavan"
+    },
+    {
+      "uniqueNo": 2,
+      "name": "The last love",
+      "author": "prasad"
+    },
+    {
+      "uniqueNo": 3,
+      "name": "Back benchers",
+      "author": "ravi"
+    },
+
+    {
+      "uniqueNo": 4,
+      "name": "The First love",
+      "author": "mohan"
+    },
+    {
+      "uniqueNo": 5,
+      "name": "The  love",
+      "author": "yeshwanth"
+    }
+  ]
+}

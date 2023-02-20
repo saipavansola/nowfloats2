@@ -1,0 +1,49 @@
+.app-container {
+  background-image: url("https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/6010843e4702bd1918217200_6002086f72b727e1b701d3df_blog-image.jpeg");
+  background-size: cover;
+  display: flex;
+  margin-left: 25%;
+  margin-right: 25%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.title {
+  color:red;
+}
+
+#page-numbers {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+#page-numbers li {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.user-con{
+  border: 2px solid white;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.input-field{
+  margin-bottom: 5px;
+  border: 1px solid yellow;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+
+.button{
+  background-color: blue;
+  color: aliceblue;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 5px;
+  width: 100%;
+}
